@@ -1,0 +1,2 @@
+# rubycoin
+Simple Blockchain application
